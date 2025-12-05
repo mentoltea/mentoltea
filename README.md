@@ -17,8 +17,10 @@
 ![](https://img.shields.io/badge/PostgreSQL-4F7BA1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=MySQL&logoColor=white)
 
-## Know something / sometimes used
+## Know something / used sometimes
 ![](https://img.shields.io/badge/Kotlin-F78808?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+![](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)
 
 ## Instruments
 ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=white)
