@@ -1,6 +1,8 @@
 ## Backend/Desktop dev
 
 # Stack
+
+## Know well / used a lot 
 ![](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=C&logoColor=white)
 
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -13,6 +15,10 @@
 ![](https://img.shields.io/badge/Django-003E2B?style=for-the-badge&logo=Django&logoColor=white)
 
 ![](https://img.shields.io/badge/PostgreSQL-4F7BA1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=MySQL&logoColor=white)
+
+## Know something / sometimes used
+![](https://img.shields.io/badge/Kotlin-F78808?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ## Instruments
 ![](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&logoColor=white)
@@ -21,10 +27,13 @@
 ![](https://img.shields.io/badge/VirtualBox-183861?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![](https://img.shields.io/badge/Qemu-FF6600?style=for-the-badge&logo=Qemu&logoColor=white)
 
+![](https://img.shields.io/badge/Unix/Linux-013A67?style=for-the-badge&logo=Linux&logoColor=white)
+
+![](https://img.shields.io/badge/Android_Studio-3DDD85?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+
 ![](https://img.shields.io/badge/FFmpeg-18AF1A?style=for-the-badge&logo=FFmpeg&logoColor=white)
 
-## Personal info
-
+# Personal info
 - Agoev Tamerlan
 - 19
 - 3 курс Прикладная математика и информатика (Системое программирование)
