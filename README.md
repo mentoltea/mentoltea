@@ -20,6 +20,8 @@
 ## Know something / used sometimes
 ![](https://img.shields.io/badge/Kotlin-F78808?style=for-the-badge&logo=Kotlin&logoColor=white)
 
+![](https://img.shields.io/badge/Rust-393640?style=for-the-badge&logo=Rust&logoColor=white)
+
 ![](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=Lua&logoColor=white)
 
 ## Instruments
