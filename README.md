@@ -1,5 +1,3 @@
-## Backend/Desktop dev
-
 # Stack
 
 ## Know well / used a lot 
@@ -18,7 +16,13 @@
 ![](https://img.shields.io/badge/MySQL-00618B?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Know something / used sometimes
+![](https://img.shields.io/badge/Java-E72B2F?style=for-the-badge&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/JOGL-6B3FE6?style=for-the-badge&logo=JOGL&logoColor=white)
+
 ![](https://img.shields.io/badge/Kotlin-F78808?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+![](https://img.shields.io/badge/Javascript-F7E22A?style=for-the-badge&logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/React-0FDAFB?style=for-the-badge&logo=React&logoColor=white)
 
 ![](https://img.shields.io/badge/Rust-393640?style=for-the-badge&logo=Rust&logoColor=white)
 
