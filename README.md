@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 ![](https://img.shields.io/badge/OpenGL-0079BC?style=for-the-badge&logo=OpenGL&logoColor=white)
+![](https://img.shields.io/badge/GLSL-1F1F1F?style=for-the-badge&logo=GLSL&logoColor=white)
 
 ![](https://img.shields.io/badge/Python-3771A1?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-FF8600?&style=for-the-badge&logo=Tensorflow&logoColor=white)
