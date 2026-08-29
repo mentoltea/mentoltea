@@ -45,7 +45,7 @@
 # Personal info
 - Agoev Tamerlan
 - 20
-- 3 курс Прикладная математика и информатика (Системое программирование)
+- 4 курс Прикладная математика и информатика (Системое программирование)
 
 ## Contacts
 <a target="_blank" href="https://t.me/lacus_lacrimalis">
